@@ -53,6 +53,6 @@ elif(len(number)==3):
                     search_key2=number[t]
                     string1=string1+(dict2[search_key2])
 else:
-    print("Greater than 1000 Not Available")
+    print("Greater than 999 Not Available")
 print(string1)
     
